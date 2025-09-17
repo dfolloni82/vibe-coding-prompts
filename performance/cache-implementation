@@ -1,0 +1,14 @@
+# Cache Implementation 
+
+I need to implement caching with background revalidation for my [FRAMEWORK] app. Help me:
+
+1. Set up a cache layer that stores [DATA_TYPE] locally
+2. Create functions to read from cache instantly on app load
+3. Implement background sync to update cache with fresh data
+4. Handle cache invalidation when data becomes stale
+5. Show fallback loading states only for cache misses
+
+My current data flow: [DESCRIBE_CURRENT_FLOW]
+My stack: [LIST_TECHNOLOGIES]
+
+Provide complete code examples with error handling and cache expiration logic.
