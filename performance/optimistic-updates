@@ -1,0 +1,14 @@
+# Optimistic Updates Prompt
+
+Help me implement optimistic updates for [SPECIFIC_ACTION] in my [FRAMEWORK] app:
+
+1. Update UI immediately when user performs action
+2. Send API request in background
+3. Handle success/failure cases gracefully
+4. Rollback UI changes if request fails
+5. Show appropriate error messages without jarring UX
+
+Current implementation: [PASTE_CURRENT_CODE]
+API endpoint: [ENDPOINT_DETAILS]
+
+Give me the complete optimistic update pattern with rollback mechanisms and user feedback.
