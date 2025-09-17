@@ -1,0 +1,16 @@
+Optimize my database performance by adding proper indexes. Analyze these queries and suggest indexes:
+
+[PASTE_SLOW_QUERIES_OR_DESCRIBE_PATTERNS]
+
+Database: [POSTGRES/MYSQL/MONGODB]
+Query patterns: [LIST_COMMON_QUERIES]
+Table sizes: [APPROXIMATE_RECORD_COUNTS]
+
+Provide:
+1. Specific index creation statements
+2. Composite index recommendations
+3. Query optimization suggestions
+4. Performance impact estimates
+5. Index maintenance considerations
+
+Focus on my most frequent query patterns.
